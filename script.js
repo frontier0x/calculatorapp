@@ -1,4 +1,5 @@
 // Calculator logic for button-based UI
+// Version: 1.0 - Basic calculator with funky messages
 console.log('🚀 Calculator script loaded! Console is working!');
 
 const display = document.getElementById('display');
